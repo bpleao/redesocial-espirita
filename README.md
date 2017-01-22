@@ -1,2 +1,6 @@
-# redesocial-espirita
-Rede Social para troca de informações e discussões a respeito de comunicações espíritas
+# Rede Social para troca de informações e discussões a respeito de comunicações espíritas
+O objetivo é que essa ferramenta, com base em alguns aspectos fundamentais do Espiritismo como a universalidade do ensino dos espíritos, possa auxiliar na compreensão e validação das informações obtidas através de múltiplas comunicações de diferentes espíritos e mediuns e no amadurecimento das idéias relacionadas. De certa forma, a principal inspiração está na forma como Kardec utilizava a Revista Espírita para realizar esse tipo de análise, apresentando conceitos obtidos através de comunicações espíritas e criando um ambiente propício para a discussão das idéias relacionadas. 
+
+A ferramenta está sendo desenvolvida com base no [framework Elgg](https://elgg.org/). Até o momento foram criadas duas entidades principais (além das já existentes no framework): comunicação (communication) e pergunta (question), que podem ser criadas e associadas entre si, para registro de informações de comunicações e perguntas que se queira esclarecer através desse tipo de informação.
+
+Para rodar é necessário seguir as instruções de instalação descritas [aqui](http://learn.elgg.org/en/stable/intro/install.html#overview).
